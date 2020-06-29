@@ -1,7 +1,0 @@
-diff a/index.html b/index.html	(rejected hunks)
-@@ -12,3 +12,4 @@
- <body>
--     <p>Мой первый сайт</p>
-+  <h1>ООО"ПОЧТА РОССИИ"</h1>
-+     <p>Телефон:0800345678</p>
- </body>
